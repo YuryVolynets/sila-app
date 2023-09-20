@@ -1,5 +1,7 @@
 ## cloudvps-app
 
+Документация по API: [sila-app](https://app.swaggerhub.com/apis-docs/volynets.yury/sila-app/1.0.0)
+
 ## Разворачивание проекта локально
 
 1. Клонировать проект
